@@ -1,3 +1,5 @@
+*The Notebook contains links that don't operate on Github. It is recommended to view the project below:*
+https://nbviewer.org/github/clozgil/Mergers-Acquisition-Stock-Price-Prediction/blob/main/Mergers%20%26%20Acquisition%20-%20Stock%20Price%20Prediction.ipynb
 
 # Introduction
 
