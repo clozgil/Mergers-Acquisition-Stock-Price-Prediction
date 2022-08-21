@@ -11,7 +11,7 @@ Although I do build and run a model in this proejct, the complexity around this 
 
 For a more balanced notebook between EDA, data manipulation, and models, I have a project that focuses on COVID19's impact on Post-Secondary Education below titled **COVID19 Effects on Post-Secondary Education**
 
-https://github.com/clozgil
+https://nbviewer.org/github/clozgil/COVID19-Effects-on-Post-Secondary-Education/blob/main/COVID-19%20Effects%20on%20Post-Secondary%20Education.ipynb
 
 ## The Process
 
